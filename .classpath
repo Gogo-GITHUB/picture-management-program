@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/.谷歌下载/JTattoo-1.6.13.jar"/>
+	<classpathentry kind="lib" path="E:/新建文件夹/WeChat Files/wxid_6jyjhoodyvvp22/FileStorage/File/2020-05/Filters/dist/Filters.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_101"/>
+	<classpathentry kind="lib" path="E:/.中转/s2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
